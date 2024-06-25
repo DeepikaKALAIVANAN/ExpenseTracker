@@ -1,4 +1,4 @@
-**Expense Tracker**
+**SpendWise**
 
 Welcome to the Expense Tracker project! This application helps you manage your expenses by allowing you to record and track your spending. Whether you’re budgeting for personal use or managing expenses for a business, this tool will assist you in staying organized.
 
